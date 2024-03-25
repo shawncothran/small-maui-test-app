@@ -9,20 +9,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3f0bb62-b326-4d42-8537-7f5b66ff7a6b" name="Changes" comment="" />
+    <list default="true" id="d3f0bb62-b326-4d42-8537-7f5b66ff7a6b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SmallApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SmallApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainPageViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MainPageViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/MonoTouchDebugConfiguration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/MonoTouchDebugConfiguration.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/SmallApp" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/SmallApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/SmallApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/SmallApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/SmallApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/SmallApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-android/SmallApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-android/SmallApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-android/SmallApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-android/SmallApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-android/build.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-android/build.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/SmallApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/linked/SmallApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/linked/SmallApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/linked/SmallApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/linked/SmallApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/SmallApp" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/SmallApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/ref/SmallApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/ref/SmallApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/refint/SmallApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-ios/iossimulator-arm64/refint/SmallApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/SmallApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/SmallApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/SmallApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/SmallApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="SmallApp/invalid/Android Facet - SmallApp" />
     </ignored-facets>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eBM3SUvW3ptCENCTwCOmLotVqE" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -36,6 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Xamarin.iOS.SmallApp.executor": "Debug",
+    "git-widget-placeholder": "maui-binding-test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711373319007</updated>
-      <workItem from="1711373320041" duration="4568000" />
+      <workItem from="1711373320041" duration="5634000" />
     </task>
     <servers />
   </component>
