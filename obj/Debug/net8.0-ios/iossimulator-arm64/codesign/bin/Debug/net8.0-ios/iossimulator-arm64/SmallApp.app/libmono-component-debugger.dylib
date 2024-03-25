@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/shawn.cothran/RiderProjects/SmallApp/bin/Debug/net8.0-ios/iossimulator-arm64/SmallApp.app/libmono-component-debugger.dylib
