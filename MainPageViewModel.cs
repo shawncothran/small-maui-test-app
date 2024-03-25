@@ -5,7 +5,7 @@ namespace SmallApp;
 
 public class MainPageViewModel: ObservableObject
 {
-    private string someValue = "I work good.";
+    private string someValue = "I display the correct TextColor.";
     public string SomeValue
     {
         get => someValue;
@@ -16,6 +16,6 @@ public class MainPageViewModel: ObservableObject
 
     public MainPageViewModel()
     {
-        ChangeText = new Command(() => SomeValue = "I am broken now.");
+        ChangeText = new Command(() => SomeValue = "I have broken TextColor.");
     }
 }
